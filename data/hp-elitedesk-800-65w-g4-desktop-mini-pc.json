@@ -1,0 +1,500 @@
+[
+    {
+        "name": "HP Firmware Pack (Q21)",
+        "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143306.exe",
+        "version": "02.21.00 Rev.A",
+        "date": "2022-11-08T00:00:00.000Z"
+    },
+    {
+        "name": "HP Firmware Pack (Q21)",
+        "url": "https://ftp.hp.com/pub/softpaq/sp141501-142000/sp141809.exe",
+        "version": "02.20.01 Rev.A",
+        "date": "2022-08-15T00:00:00.000Z"
+    },
+    {
+        "name": "HP Firmware Pack (Q21)",
+        "url": "https://ftp.hp.com/pub/softpaq/sp139501-140000/sp139512.exe",
+        "version": "02.19.00 Rev.A",
+        "date": "2022-04-29T00:00:00.000Z"
+    },
+    {
+        "name": "HP Firmware Pack (Q21)",
+        "url": "https://ftp.hp.com/pub/softpaq/sp136501-137000/sp136969.exe",
+        "version": "02.18.00 Rev.A",
+        "date": "2022-01-27T00:00:00.000Z"
+    },
+    {
+        "name": "HP Firmware Pack (Q21)",
+        "url": "https://ftp.hp.com/pub/softpaq/sp136501-137000/sp136732.exe",
+        "version": "02.17.00 Rev.A",
+        "date": "2021-12-27T00:00:00.000Z"
+    },
+    {
+        "name": "HP PC Hardware Diagnostics UEFI",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142001-142500/sp142096.exe",
+        "version": "8.7.2.0 Rev.A",
+        "date": "2022-08-21T00:00:00.000Z"
+    },
+    {
+        "name": "HP PC Hardware Diagnostics UEFI",
+        "url": "https://ftp.hp.com/pub/softpaq/sp115001-115500/sp115284.exe",
+        "version": "8.2.0.0 Rev.A",
+        "date": "2021-06-30T00:00:00.000Z"
+    },
+    {
+        "name": "HP PC Hardware Diagnostics UEFI",
+        "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113345.exe",
+        "version": "8.1.0.0 Rev.A",
+        "date": "2021-04-16T00:00:00.000Z"
+    },
+    {
+        "name": "HP PC Hardware Diagnostics Windows",
+        "url": "https://ftp.hp.com/pub/softpaq/sp141501-142000/sp141746.exe",
+        "version": "1.8.2.0 Rev.A",
+        "date": "2022-08-06T00:00:00.000Z"
+    },
+    {
+        "name": "HP PC Hardware Diagnostics Windows",
+        "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138803.exe",
+        "version": "1.8.1.0 Rev.A",
+        "date": "2022-03-10T00:00:00.000Z"
+    },
+    {
+        "name": "HP PC Hardware Diagnostics Windows",
+        "url": "https://ftp.hp.com/pub/softpaq/sp118001-118500/sp118349.exe",
+        "version": "1.7.0.0 Rev.A",
+        "date": "2021-07-07T00:00:00.000Z"
+    },
+    {
+        "name": "HP PC Hardware Diagnostics Windows",
+        "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112519.exe",
+        "version": "1.6.8.0 Rev.B",
+        "date": "2021-01-29T00:00:00.000Z"
+    },
+    {
+        "name": "Synaptics HD Audio Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142665.exe",
+        "version": "8.65.319.200 Rev.A",
+        "date": "2022-09-19T00:00:00.000Z"
+    },
+    {
+        "name": "Synaptics HD Audio Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp122001-122500/sp122453.exe",
+        "version": "8.65.319.170 Rev.A",
+        "date": "2021-07-16T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Chipset Device Software",
+        "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101012.exe",
+        "version": "10.1.18121.8164 Rev.A",
+        "date": "2019-12-26T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143098.exe",
+        "version": "2227.3.14.0 Rev.A",
+        "date": "2022-10-19T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp139501-140000/sp139844.exe",
+        "version": "2205.15.0.2623 Rev.A",
+        "date": "2022-04-17T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136230.exe",
+        "version": "2141.15.0.2511 Rev.A",
+        "date": "2021-11-17T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113336.exe",
+        "version": "2105.15.0.2157 Rev.A",
+        "date": "2021-04-16T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Thunderbolt 3 Secure Connect",
+        "url": "https://ftp.hp.com/pub/softpaq/sp133001-133500/sp133131.exe",
+        "version": "84 Rev.A",
+        "date": "2021-08-24T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Thunderbolt Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp143501-144000/sp143571.exe",
+        "version": "86 Rev.A",
+        "date": "2022-11-11T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Trusted Execution Technology (TXT) Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp139501-140000/sp139823.exe",
+        "version": "1.10.0.0 Rev.A",
+        "date": "2022-04-15T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Trusted Execution Technology (TXT) Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136381.exe",
+        "version": "1.9.0.1 Rev.A",
+        "date": "2021-11-28T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Trusted Execution Technology (TXT) Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp112001-112500/sp112124.exe",
+        "version": "1.7.3.0 Rev.A",
+        "date": "2021-01-06T00:00:00.000Z"
+    },
+    {
+        "name": "HP Application Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95222.exe",
+        "version": "1.1.377.0 Rev.A",
+        "date": "2019-03-01T00:00:00.000Z"
+    },
+    {
+        "name": "HP Application Enabling Software Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142001-142500/sp142171.exe",
+        "version": "1.46.3053.0 Rev.A",
+        "date": "2022-08-24T00:00:00.000Z"
+    },
+    {
+        "name": "HP Application Enabling Software Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp134001-134500/sp134311.exe",
+        "version": "1.35.2498.0 Rev.A",
+        "date": "2021-09-02T00:00:00.000Z"
+    },
+    {
+        "name": "HP Application Enabling Software Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp110501-111000/sp110546.exe",
+        "version": "1.26.2130.0 Rev.A",
+        "date": "2020-10-21T00:00:00.000Z"
+    },
+    {
+        "name": "HP Application Enabling Software Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101316.exe",
+        "version": "1.19.1692.0 Rev.A",
+        "date": "2020-01-10T00:00:00.000Z"
+    },
+    {
+        "name": "AMD Video Driver and Control Panel for Radeon RX series",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142001-142500/sp142173.exe",
+        "version": "31.0.12002.5003 Rev.A",
+        "date": "2022-08-24T00:00:00.000Z"
+    },
+    {
+        "name": "AMD Video Driver and Control Panel for Radeon RX series",
+        "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140570.exe",
+        "version": "30.0.14036.2 Rev.A",
+        "date": "2022-06-05T00:00:00.000Z"
+    },
+    {
+        "name": "AMD Video Driver and Control Panel for Radeon RX series",
+        "url": "https://ftp.hp.com/pub/softpaq/sp125501-126000/sp125583.exe",
+        "version": "27.20.21020.5007 Rev.A",
+        "date": "2021-08-01T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Video Driver and Control Panel",
+        "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140691.exe",
+        "version": "30.0.101.1339 Rev.P",
+        "date": "2022-06-14T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Video Driver and Control Panel",
+        "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113531.exe",
+        "version": "27.20.100.9416 Rev.A",
+        "date": "2021-04-28T00:00:00.000Z"
+    },
+    {
+        "name": "Prolific USB-to-Serial Comm Port Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp107001-107500/sp107322.exe",
+        "version": "3.8.36.2 Rev.A",
+        "date": "2020-07-29T00:00:00.000Z"
+    },
+    {
+        "name": "Prolific USB-to-Serial Comm Port Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp99001-99500/sp99307.exe",
+        "version": "3.8.30.2 Rev.A",
+        "date": "2019-09-19T00:00:00.000Z"
+    },
+    {
+        "name": "Allied Telesis Fiber Network Interface Card (NIC) Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140684.exe",
+        "version": "219.0.1.0 Rev.A",
+        "date": "2022-06-14T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Bluetooth Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142001-142500/sp142308.exe",
+        "version": "22.160.0.3 Rev.A",
+        "date": "2022-09-01T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Bluetooth Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp141001-141500/sp141213.exe",
+        "version": "22.150.0.6 Rev.A",
+        "date": "2022-07-22T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Bluetooth Remote Wake Feature Application",
+        "url": "https://ftp.hp.com/pub/softpaq/sp110501-111000/sp110501.exe",
+        "version": "21.120.0.4 Rev.A",
+        "date": "2020-10-16T00:00:00.000Z"
+    },
+    {
+        "name": "Intel NIC Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142001-142500/sp142220.exe",
+        "version": "12.19.2.45 Rev.P",
+        "date": "2022-08-26T00:00:00.000Z"
+    },
+    {
+        "name": "Intel NIC Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140794.exe",
+        "version": "12.19.2.45 Rev.P",
+        "date": "2022-06-23T00:00:00.000Z"
+    },
+    {
+        "name": "Intel WLAN Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143080.exe",
+        "version": "22.170.0.3 Rev.A",
+        "date": "2022-10-18T00:00:00.000Z"
+    },
+    {
+        "name": "Intel WLAN Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138639.exe",
+        "version": "22.120.0.3 Rev.A",
+        "date": "2022-03-06T00:00:00.000Z"
+    },
+    {
+        "name": "Realtek Bluetooth Remote Wake Feature",
+        "url": "https://ftp.hp.com/pub/softpaq/sp119001-119500/sp119367.exe",
+        "version": "1.0.0.4 Rev.A",
+        "date": "2021-07-08T00:00:00.000Z"
+    },
+    {
+        "name": "Realtek Bluetooth Remote Wake Feature",
+        "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100554.exe",
+        "version": "1.5 Rev.A",
+        "date": "2019-12-06T00:00:00.000Z"
+    },
+    {
+        "name": "Realtek RTL8xxx Series Bluetooth Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp108501-109000/sp108784.exe",
+        "version": "1.8.1030.3001 Rev.S",
+        "date": "2020-08-27T00:00:00.000Z"
+    },
+    {
+        "name": "Realtek RTL8xxx Wireless LAN Drivers",
+        "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100552.exe",
+        "version": "2024.0.10.209 Rev.S",
+        "date": "2019-12-06T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Rapid Storage Technology Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp135501-136000/sp135954.exe",
+        "version": "17.11.0.1000 Rev.V",
+        "date": "2021-10-26T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Rapid Storage Technology Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110407.exe",
+        "version": "17.5.2.1024 Rev.P",
+        "date": "2020-10-12T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Rapid Storage Technology Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101028.exe",
+        "version": "17.5.2.1024 Rev.P",
+        "date": "2019-12-27T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Solid State Drive (SSD) Firmware Update",
+        "url": "https://ftp.hp.com/pub/softpaq/sp136501-137000/sp136849.exe",
+        "version": "HPS2/HP06/HPS5/HPS9 Rev.A",
+        "date": "2022-01-04T00:00:00.000Z"
+    },
+    {
+        "name": "Cloud Recovery Client",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142993.exe",
+        "version": "2.10.1.17 Rev.A",
+        "date": "2022-10-04T00:00:00.000Z"
+    },
+    {
+        "name": "Cloud Recovery Client",
+        "url": "https://ftp.hp.com/pub/softpaq/sp139001-139500/sp139291.exe",
+        "version": "2.9.5.37980 Rev.a",
+        "date": "2022-03-25T00:00:00.000Z"
+    },
+    {
+        "name": "Cloud Recovery Client",
+        "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113100.exe",
+        "version": "2.7.1.1 Rev.A",
+        "date": "2021-03-23T00:00:00.000Z"
+    },
+    {
+        "name": "HP Sure Recover",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142001-142500/sp142268.exe",
+        "version": "10.1.11.28 Rev.A",
+        "date": "2022-08-29T00:00:00.000Z"
+    },
+    {
+        "name": "HP Sure Recover",
+        "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103635.exe",
+        "version": "2.4.2.1 Rev.a",
+        "date": "2020-04-24T00:00:00.000Z"
+    },
+    {
+        "name": "HP Sure Recover Agent",
+        "url": "https://ftp.hp.com/pub/softpaq/sp140001-140500/sp140106.exe",
+        "version": "2.9.6.40366 Rev.A",
+        "date": "2022-04-28T00:00:00.000Z"
+    },
+    {
+        "name": "HP Sure Run",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142001-142500/sp142271.exe",
+        "version": "5.0.3.20 Rev.a",
+        "date": "2022-08-29T00:00:00.000Z"
+    },
+    {
+        "name": "HP Sure Run",
+        "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138830.exe",
+        "version": "5.0.1.26580 Rev.a",
+        "date": "2022-03-13T00:00:00.000Z"
+    },
+    {
+        "name": "HP Sure Run",
+        "url": "https://ftp.hp.com/pub/softpaq/sp95501-96000/sp95787.exe",
+        "version": "1.0.47.1 Rev.A",
+        "date": "2019-04-22T00:00:00.000Z"
+    },
+    {
+        "name": "HP Wolf Security Console",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142001-142500/sp142266.exe",
+        "version": "11.0.16.52 Rev.A",
+        "date": "2022-09-08T00:00:00.000Z"
+    },
+    {
+        "name": "HP Wolf Security for Business",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142743.exe",
+        "version": "4.3.21.549 Rev.A",
+        "date": "2022-09-21T00:00:00.000Z"
+    },
+    {
+        "name": "HP Wolf Security for Business",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142001-142500/sp142448.exe",
+        "version": "4.3.20.873 Rev.A",
+        "date": "2022-09-08T00:00:00.000Z"
+    },
+    {
+        "name": "HP Wolf Security for Business",
+        "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140612.exe",
+        "version": "4.3.8.391 Rev.A",
+        "date": "2022-06-07T00:00:00.000Z"
+    },
+    {
+        "name": "HP Wolf Security for Business",
+        "url": "https://ftp.hp.com/pub/softpaq/sp140001-140500/sp140066.exe",
+        "version": "4.3.7.346 Rev.A",
+        "date": "2022-04-26T00:00:00.000Z"
+    },
+    {
+        "name": "HP Collaboration Keyboard Software",
+        "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110344.exe",
+        "version": "2.0.3.1 Rev.A",
+        "date": "2020-10-05T00:00:00.000Z"
+    },
+    {
+        "name": "HP Hotkey Support - CMIT",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142704.exe",
+        "version": "6.2.56.1 Rev.A",
+        "date": "2022-09-20T00:00:00.000Z"
+    },
+    {
+        "name": "HP Hotkey Support - CMIT",
+        "url": "https://ftp.hp.com/pub/softpaq/sp107501-108000/sp107620.exe",
+        "version": "6.2.55.1 Rev.A",
+        "date": "2020-08-12T00:00:00.000Z"
+    },
+    {
+        "name": "HP Hotkey Support - CMIT",
+        "url": "https://ftp.hp.com/pub/softpaq/sp98501-99000/sp98968.exe",
+        "version": "6.2.53.1 Rev.A",
+        "date": "2019-08-22T00:00:00.000Z"
+    },
+    {
+        "name": "HP Notifications",
+        "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143471.exe",
+        "version": "1.1.28.1 Rev.A",
+        "date": "2022-11-03T00:00:00.000Z"
+    },
+    {
+        "name": "HP Notifications",
+        "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113380.exe",
+        "version": "1.1.28.1 Rev.A",
+        "date": "2021-04-20T00:00:00.000Z"
+    },
+    {
+        "name": "HP Privacy Settings",
+        "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114167.exe",
+        "version": "1.0.42.0 Rev.A",
+        "date": "2021-06-09T00:00:00.000Z"
+    },
+    {
+        "name": "HP Privacy Settings",
+        "url": "https://ftp.hp.com/pub/softpaq/sp110501-111000/sp110883.exe",
+        "version": "1.0.39.0 Rev.A",
+        "date": "2020-11-04T00:00:00.000Z"
+    },
+    {
+        "name": "HP Privacy Settings",
+        "url": "https://ftp.hp.com/pub/softpaq/sp110501-111000/sp110573.exe",
+        "version": "1.0.39.0 Rev.A",
+        "date": "2020-10-23T00:00:00.000Z"
+    },
+    {
+        "name": "HP Privacy Settings",
+        "url": "https://ftp.hp.com/pub/softpaq/sp100001-100500/sp100118.exe",
+        "version": "1.0.38.0 Rev.A",
+        "date": "2019-11-15T00:00:00.000Z"
+    },
+    {
+        "name": "HP Support Assistant",
+        "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123556.exe",
+        "version": "9.7.525.0 Rev.A",
+        "date": "2021-08-11T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Unite",
+        "url": "https://ftp.hp.com/pub/softpaq/sp107001-107500/sp107358.exe",
+        "version": "4.2.13064.27 Rev.A",
+        "date": "2020-07-30T00:00:00.000Z"
+    },
+    {
+        "name": "System Default Settings",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142644.exe",
+        "version": "1.4 Rev.16",
+        "date": "2022-09-16T00:00:00.000Z"
+    },
+    {
+        "name": "HP Connection Optimizer",
+        "url": "https://ftp.hp.com/pub/softpaq/sp111501-112000/sp111995.exe",
+        "version": "2.0.19.0 Rev.A",
+        "date": "2020-12-30T00:00:00.000Z"
+    },
+    {
+        "name": "HP Connection Optimizer",
+        "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100862.exe",
+        "version": "2.0.16.0 Rev.A",
+        "date": "2019-12-23T00:00:00.000Z"
+    },
+    {
+        "name": "HP Slim Keyboard (Wireless or USB) Applet",
+        "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103967.exe",
+        "version": "1.0.1.0 Rev.A",
+        "date": "2020-05-11T00:00:00.000Z"
+    },
+    {
+        "name": "HP Slim Keyboard (Wireless or USB) Applet",
+        "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92160.exe",
+        "version": "1.0.0.0 Rev.F",
+        "date": "2018-10-03T00:00:00.000Z"
+    }
+]
