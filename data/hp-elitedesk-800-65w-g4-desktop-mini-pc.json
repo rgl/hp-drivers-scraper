@@ -1,6 +1,12 @@
 [
     {
         "name": "HP Firmware Pack (Q21)",
+        "url": "https://ftp.hp.com/pub/softpaq/sp144001-144500/sp144210.exe",
+        "version": "02.22.00 Rev.A",
+        "date": "2023-02-14T00:00:00.000Z"
+    },
+    {
+        "name": "HP Firmware Pack (Q21)",
         "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143306.exe",
         "version": "02.21.00 Rev.A",
         "date": "2022-11-08T00:00:00.000Z"

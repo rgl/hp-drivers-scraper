@@ -1,6 +1,12 @@
 [
     {
         "name": "HP EliteDesk 800 G2 DM System BIOS (N21)",
+        "url": "https://ftp.hp.com/pub/softpaq/sp144001-144500/sp144261.exe",
+        "version": "02.60 Rev.A",
+        "date": "2023-02-14T00:00:00.000Z"
+    },
+    {
+        "name": "HP EliteDesk 800 G2 DM System BIOS (N21)",
         "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142710.exe",
         "version": "02.59 Rev.A",
         "date": "2022-11-08T00:00:00.000Z"
@@ -358,60 +364,6 @@
         "url": "https://ftp.hp.com/pub/softpaq/sp79001-79500/sp79109.exe",
         "version": "10.1.1.38 Rev.S",
         "date": "2017-02-14T00:00:00.000Z"
-    },
-    {
-        "name": "Intel Management Engine Components Driver",
-        "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143104.exe",
-        "version": "2238.3.31.0 Rev.A",
-        "date": "2022-10-19T00:00:00.000Z"
-    },
-    {
-        "name": "Intel Management Engine Components Driver",
-        "url": "https://ftp.hp.com/pub/softpaq/sp139501-140000/sp139884.exe",
-        "version": "2205.15.0.2623 Rev.A",
-        "date": "2022-04-18T00:00:00.000Z"
-    },
-    {
-        "name": "Intel Management Engine Components Driver",
-        "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136274.exe",
-        "version": "2141.15.0.2511 Rev.A",
-        "date": "2021-11-22T00:00:00.000Z"
-    },
-    {
-        "name": "Intel Management Engine Components Driver",
-        "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113335.exe",
-        "version": "2105.15.0.2157 Rev.A",
-        "date": "2021-04-16T00:00:00.000Z"
-    },
-    {
-        "name": "Intel Management Engine Components Driver",
-        "url": "https://ftp.hp.com/pub/softpaq/sp111001-111500/sp111010.exe",
-        "version": "2044.15.0.1951 Rev.A",
-        "date": "2020-11-11T00:00:00.000Z"
-    },
-    {
-        "name": "Intel Management Engine Components Driver",
-        "url": "https://ftp.hp.com/pub/softpaq/sp107001-107500/sp107449.exe",
-        "version": "2026.14.0.1676 Rev.A",
-        "date": "2020-08-04T00:00:00.000Z"
-    },
-    {
-        "name": "Intel Management Engine Components Driver",
-        "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103537.exe",
-        "version": "2014.14.0.1540 Rev.A",
-        "date": "2020-04-20T00:00:00.000Z"
-    },
-    {
-        "name": "Intel Management Engine Components Driver",
-        "url": "https://ftp.hp.com/pub/softpaq/sp99001-99500/sp99423.exe",
-        "version": "1932.12.0.1298 Rev.A",
-        "date": "2019-09-25T00:00:00.000Z"
-    },
-    {
-        "name": "Intel Management Engine Components Driver",
-        "url": "https://ftp.hp.com/pub/softpaq/sp95501-96000/sp95957.exe",
-        "version": "1916.12.0.1263 Rev.A",
-        "date": "2019-04-26T00:00:00.000Z"
     },
     {
         "name": "Intel Management Engine Components Driver",
