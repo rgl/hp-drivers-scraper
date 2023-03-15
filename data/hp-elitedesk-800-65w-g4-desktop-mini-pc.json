@@ -199,6 +199,12 @@
     },
     {
         "name": "Prolific USB-to-Serial Comm Port Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp107001-107500/sp107322.exe",
+        "version": "3.8.36.2 Rev.A",
+        "date": "2020-07-29T00:00:00.000Z"
+    },
+    {
+        "name": "Prolific USB-to-Serial Comm Port Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp99001-99500/sp99307.exe",
         "version": "3.8.30.2 Rev.A",
         "date": "2019-09-19T00:00:00.000Z"
