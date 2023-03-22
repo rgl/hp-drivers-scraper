@@ -181,6 +181,18 @@
     },
     {
         "name": "AMD Video Driver and Control Panel for Radeon RX series",
+        "url": "https://ftp.hp.com/pub/softpaq/sp142001-142500/sp142173.exe",
+        "version": "31.0.12002.5003 Rev.A",
+        "date": "2022-08-24T00:00:00.000Z"
+    },
+    {
+        "name": "AMD Video Driver and Control Panel for Radeon RX series",
+        "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140570.exe",
+        "version": "30.0.14036.2 Rev.A",
+        "date": "2022-06-05T00:00:00.000Z"
+    },
+    {
+        "name": "AMD Video Driver and Control Panel for Radeon RX series",
         "url": "https://ftp.hp.com/pub/softpaq/sp125501-126000/sp125583.exe",
         "version": "27.20.21020.5007 Rev.A",
         "date": "2021-08-01T00:00:00.000Z"
