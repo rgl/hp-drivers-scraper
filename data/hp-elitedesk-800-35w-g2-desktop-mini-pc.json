@@ -691,6 +691,72 @@
     },
     {
         "name": "Intel Management Engine Firmware",
+        "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143093.exe",
+        "version": "11.8.93.4323 Rev.A",
+        "date": "2022-10-19T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Firmware",
+        "url": "https://ftp.hp.com/pub/softpaq/sp139501-140000/sp139882.exe",
+        "version": "11.8.92.4222 Rev.A",
+        "date": "2022-04-18T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Firmware",
+        "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136275.exe",
+        "version": "11.8.90.3987 Rev.A",
+        "date": "2021-11-22T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Firmware",
+        "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113354.exe",
+        "version": "11.8.86.3877 Rev.A",
+        "date": "2021-04-18T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Firmware",
+        "url": "https://ftp.hp.com/pub/softpaq/sp112001-112500/sp112066.exe",
+        "version": "11.8.82.3838 Rev.A",
+        "date": "2021-01-04T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Firmware",
+        "url": "https://ftp.hp.com/pub/softpaq/sp110501-111000/sp110629.exe",
+        "version": "11.8.81.3781 Rev.A",
+        "date": "2020-10-26T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Firmware",
+        "url": "https://ftp.hp.com/pub/softpaq/sp107501-108000/sp107558.exe",
+        "version": "11.8.79.3722 Rev.A",
+        "date": "2020-08-09T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Firmware",
+        "url": "https://ftp.hp.com/pub/softpaq/sp102001-102500/sp102274.exe",
+        "version": "11.8.77.3664 Rev.A",
+        "date": "2020-04-06T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Firmware",
+        "url": "https://ftp.hp.com/pub/softpaq/sp99001-99500/sp99434.exe",
+        "version": "11.8.70.3626 Rev.A",
+        "date": "2019-09-26T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Firmware",
+        "url": "https://ftp.hp.com/pub/softpaq/sp95501-96000/sp95653.exe",
+        "version": "11.8.65.3590 Rev.A",
+        "date": "2019-05-03T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Firmware",
+        "url": "https://ftp.hp.com/pub/softpaq/sp93001-93500/sp93319.exe",
+        "version": "11.8.60.3561 Rev.A",
+        "date": "2019-01-18T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Firmware",
         "url": "https://ftp.hp.com/pub/softpaq/sp89001-89500/sp89025.exe",
         "version": "11.8.55.3510 Rev.A",
         "date": "2018-08-17T00:00:00.000Z"

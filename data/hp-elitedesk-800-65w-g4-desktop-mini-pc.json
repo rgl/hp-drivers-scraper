@@ -211,12 +211,6 @@
     },
     {
         "name": "Prolific USB-to-Serial Comm Port Driver",
-        "url": "https://ftp.hp.com/pub/softpaq/sp107001-107500/sp107322.exe",
-        "version": "3.8.36.2 Rev.A",
-        "date": "2020-07-29T00:00:00.000Z"
-    },
-    {
-        "name": "Prolific USB-to-Serial Comm Port Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp99001-99500/sp99307.exe",
         "version": "3.8.30.2 Rev.A",
         "date": "2019-09-19T00:00:00.000Z"
@@ -295,6 +289,12 @@
     },
     {
         "name": "Intel Rapid Storage Technology Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144824.exe",
+        "version": "17.11.3.1010 Rev.W",
+        "date": "2023-02-10T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Rapid Storage Technology Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp135501-136000/sp135954.exe",
         "version": "17.11.0.1000 Rev.V",
         "date": "2021-10-26T00:00:00.000Z"
@@ -348,7 +348,7 @@
         "date": "2020-04-24T00:00:00.000Z"
     },
     {
-        "name": "HP Sure Recover Agent",
+        "name": "HP Sure Recover agent",
         "url": "https://ftp.hp.com/pub/softpaq/sp140001-140500/sp140106.exe",
         "version": "2.9.6.40366 Rev.A",
         "date": "2022-04-28T00:00:00.000Z"
