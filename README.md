@@ -30,3 +30,14 @@ To get the BIOS and the Intel ME Windows drivers download URLs, you can use some
 jq -r '[.[] | select(.name == "HP Firmware Pack (Q21)")] | first' data/hp-elitedesk-800-65w-g4-desktop-mini-pc.json
 jq -r '[.[] | select(.name == "Intel Management Engine Driver")] | first' data/hp-elitedesk-800-65w-g4-desktop-mini-pc.json
 ```
+
+## Usage
+
+Install [Node.js](https://nodejs.org).
+
+Execute:
+
+```bash
+npm ci
+node main.js
+```
