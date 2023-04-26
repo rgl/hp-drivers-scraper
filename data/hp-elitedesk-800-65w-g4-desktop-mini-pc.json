@@ -181,18 +181,6 @@
     },
     {
         "name": "AMD Video Driver and Control Panel for Radeon RX series",
-        "url": "https://ftp.hp.com/pub/softpaq/sp142001-142500/sp142173.exe",
-        "version": "31.0.12002.5003 Rev.A",
-        "date": "2022-08-24T00:00:00.000Z"
-    },
-    {
-        "name": "AMD Video Driver and Control Panel for Radeon RX series",
-        "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140570.exe",
-        "version": "30.0.14036.2 Rev.A",
-        "date": "2022-06-05T00:00:00.000Z"
-    },
-    {
-        "name": "AMD Video Driver and Control Panel for Radeon RX series",
         "url": "https://ftp.hp.com/pub/softpaq/sp125501-126000/sp125583.exe",
         "version": "27.20.21020.5007 Rev.A",
         "date": "2021-08-01T00:00:00.000Z"
@@ -469,9 +457,21 @@
     },
     {
         "name": "HP Support Assistant",
+        "url": "https://ftp.hp.com/pub/softpaq/sp146001-146500/sp146042.exe",
+        "version": "9.25.18.0 Rev.A",
+        "date": "2023-04-14T00:00:00.000Z"
+    },
+    {
+        "name": "HP Support Assistant",
         "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123556.exe",
         "version": "9.7.525.0 Rev.A",
         "date": "2021-08-11T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Unite",
+        "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144690.exe",
+        "version": "4.2.34962.46 Rev.A",
+        "date": "2023-01-23T00:00:00.000Z"
     },
     {
         "name": "Intel Unite",

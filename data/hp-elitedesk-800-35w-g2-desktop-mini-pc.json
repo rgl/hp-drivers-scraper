@@ -366,61 +366,115 @@
         "date": "2017-02-14T00:00:00.000Z"
     },
     {
-        "name": "Intel Management Engine Components Driver",
+        "name": "Intel Management Engine Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143104.exe",
+        "version": "2238.3.31.0 Rev.A",
+        "date": "2022-10-19T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp139501-140000/sp139884.exe",
+        "version": "2205.15.0.2623 Rev.A",
+        "date": "2022-04-18T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136274.exe",
+        "version": "2141.15.0.2511 Rev.A",
+        "date": "2021-11-22T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113335.exe",
+        "version": "2105.15.0.2157 Rev.A",
+        "date": "2021-04-16T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp111001-111500/sp111010.exe",
+        "version": "2044.15.0.1951 Rev.A",
+        "date": "2020-11-11T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp107001-107500/sp107449.exe",
+        "version": "2026.14.0.1676 Rev.A",
+        "date": "2020-08-04T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103537.exe",
+        "version": "2014.14.0.1540 Rev.A",
+        "date": "2020-04-20T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp99001-99500/sp99423.exe",
+        "version": "1932.12.0.1298 Rev.A",
+        "date": "2019-09-25T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp95501-96000/sp95957.exe",
+        "version": "1916.12.0.1263 Rev.A",
+        "date": "2019-04-26T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Management Engine Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp93001-93500/sp93392.exe",
         "version": "1846.12.0.1177 Rev.A",
         "date": "2019-01-18T00:00:00.000Z"
     },
     {
-        "name": "Intel Management Engine Components Driver",
+        "name": "Intel Management Engine Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp88001-88500/sp88433.exe",
         "version": "11.7.0.1067 Rev.A",
         "date": "2018-06-15T00:00:00.000Z"
     },
     {
-        "name": "Intel Management Engine Components Driver",
+        "name": "Intel Management Engine Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp84001-84500/sp84442.exe",
         "version": "11.7.0.1045 Rev.A",
         "date": "2018-01-12T00:00:00.000Z"
     },
     {
-        "name": "Intel Management Engine Components Driver",
+        "name": "Intel Management Engine Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp82001-82500/sp82435.exe",
         "version": "11.7.0.1045 Rev.A",
         "date": "2017-11-16T00:00:00.000Z"
     },
     {
-        "name": "Intel Management Engine Components Driver",
+        "name": "Intel Management Engine Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp82001-82500/sp82015.exe",
         "version": "11.7.0.1035 Rev.A",
         "date": "2017-10-13T00:00:00.000Z"
     },
     {
-        "name": "Intel Management Engine Components Driver",
+        "name": "Intel Management Engine Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp79001-79500/sp79432.exe",
         "version": "11.6.0.1045 Rev.A",
         "date": "2017-03-20T00:00:00.000Z"
     },
     {
-        "name": "Intel Management Engine Components Driver",
+        "name": "Intel Management Engine Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp78001-78500/sp78219.exe",
         "version": "11.5.0.1019 Rev.A",
         "date": "2016-11-03T00:00:00.000Z"
     },
     {
-        "name": "Intel Management Engine Components Driver",
+        "name": "Intel Management Engine Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp76001-76500/sp76358.exe",
         "version": "11.0.5.1189 Rev.A",
         "date": "2016-06-20T00:00:00.000Z"
     },
     {
-        "name": "Intel Management Engine Components Driver",
+        "name": "Intel Management Engine Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp75001-75500/sp75384.exe",
         "version": "11.0.0.1176 Rev.A",
         "date": "2016-03-28T00:00:00.000Z"
     },
     {
-        "name": "Intel Management Engine Components Driver",
+        "name": "Intel Management Engine Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp72501-73000/sp72788.exe",
         "version": "11.0.0.1166 Rev.A",
         "date": "2015-09-09T00:00:00.000Z"
@@ -985,6 +1039,12 @@
     },
     {
         "name": "HP Support Assistant",
+        "url": "https://ftp.hp.com/pub/softpaq/sp146001-146500/sp146042.exe",
+        "version": "9.25.18.0 Rev.A",
+        "date": "2023-04-14T00:00:00.000Z"
+    },
+    {
+        "name": "HP Support Assistant",
         "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101214.exe",
         "version": "9.6.587.0 Rev.A",
         "date": "2020-01-18T00:00:00.000Z"
@@ -1036,6 +1096,12 @@
         "url": "https://ftp.hp.com/pub/softpaq/sp68001-68500/sp68201.exe",
         "version": "7.7.34.34 Rev.A",
         "date": "2014-09-22T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Unite",
+        "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144690.exe",
+        "version": "4.2.34962.46 Rev.A",
+        "date": "2023-01-23T00:00:00.000Z"
     },
     {
         "name": "Intel Unite",
