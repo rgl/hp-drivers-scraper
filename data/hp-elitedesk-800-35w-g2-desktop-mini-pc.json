@@ -1,6 +1,12 @@
 [
     {
         "name": "HP EliteDesk 800 G2 DM System BIOS (N21)",
+        "url": "https://ftp.hp.com/pub/softpaq/sp146501-147000/sp146663.exe",
+        "version": "02.61 Rev.A",
+        "date": "2023-04-28T00:00:00.000Z"
+    },
+    {
+        "name": "HP EliteDesk 800 G2 DM System BIOS (N21)",
         "url": "https://ftp.hp.com/pub/softpaq/sp144001-144500/sp144261.exe",
         "version": "02.60 Rev.A",
         "date": "2023-02-14T00:00:00.000Z"
@@ -1036,12 +1042,6 @@
         "url": "https://ftp.hp.com/pub/softpaq/sp87501-88000/sp87569.exe",
         "version": "1.1.7.1 Rev.A",
         "date": "2018-05-01T00:00:00.000Z"
-    },
-    {
-        "name": "HP Support Assistant",
-        "url": "https://ftp.hp.com/pub/softpaq/sp146001-146500/sp146042.exe",
-        "version": "9.25.18.0 Rev.A",
-        "date": "2023-04-14T00:00:00.000Z"
     },
     {
         "name": "HP Support Assistant",

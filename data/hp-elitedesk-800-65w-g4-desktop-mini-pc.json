@@ -1,6 +1,12 @@
 [
     {
         "name": "HP Firmware Pack (Q21)",
+        "url": "https://ftp.hp.com/pub/softpaq/sp146001-146500/sp146448.exe",
+        "version": "02.23.00 Rev.A",
+        "date": "2023-04-28T00:00:00.000Z"
+    },
+    {
+        "name": "HP Firmware Pack (Q21)",
         "url": "https://ftp.hp.com/pub/softpaq/sp144001-144500/sp144210.exe",
         "version": "02.22.00 Rev.A",
         "date": "2023-02-14T00:00:00.000Z"
@@ -208,6 +214,12 @@
         "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113531.exe",
         "version": "27.20.100.9416 Rev.A",
         "date": "2021-04-28T00:00:00.000Z"
+    },
+    {
+        "name": "Prolific USB-to-Serial Comm Port Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp107001-107500/sp107322.exe",
+        "version": "3.8.36.2 Rev.A",
+        "date": "2020-07-29T00:00:00.000Z"
     },
     {
         "name": "Prolific USB-to-Serial Comm Port Driver",
@@ -460,12 +472,6 @@
         "url": "https://ftp.hp.com/pub/softpaq/sp100001-100500/sp100118.exe",
         "version": "1.0.38.0 Rev.A",
         "date": "2019-11-15T00:00:00.000Z"
-    },
-    {
-        "name": "HP Support Assistant",
-        "url": "https://ftp.hp.com/pub/softpaq/sp146001-146500/sp146042.exe",
-        "version": "9.25.18.0 Rev.A",
-        "date": "2023-04-14T00:00:00.000Z"
     },
     {
         "name": "HP Support Assistant",
