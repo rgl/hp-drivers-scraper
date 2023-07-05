@@ -354,7 +354,7 @@
         "date": "2020-04-24T00:00:00.000Z"
     },
     {
-        "name": "HP Sure Recover agent",
+        "name": "HP Sure Recover Agent",
         "url": "https://ftp.hp.com/pub/softpaq/sp140001-140500/sp140106.exe",
         "version": "2.9.6.40366 Rev.A",
         "date": "2022-04-28T00:00:00.000Z"
@@ -382,6 +382,12 @@
         "url": "https://ftp.hp.com/pub/softpaq/sp142001-142500/sp142266.exe",
         "version": "11.0.16.52 Rev.A",
         "date": "2022-09-08T00:00:00.000Z"
+    },
+    {
+        "name": "HP Wolf Security for Business",
+        "url": "https://ftp.hp.com/pub/softpaq/sp146501-147000/sp146923.exe",
+        "version": "4.4.2.2945 Rev.A",
+        "date": "2023-04-26T00:00:00.000Z"
     },
     {
         "name": "HP Wolf Security for Business",
