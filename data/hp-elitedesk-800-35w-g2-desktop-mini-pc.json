@@ -960,48 +960,6 @@
         "date": "2022-03-14T00:00:00.000Z"
     },
     {
-        "name": "Cloud Recovery Client",
-        "url": "https://ftp.hp.com/pub/softpaq/sp136501-137000/sp136687.exe",
-        "version": "2.9.1.26376 Rev.A",
-        "date": "2021-12-15T00:00:00.000Z"
-    },
-    {
-        "name": "Cloud Recovery Client",
-        "url": "https://ftp.hp.com/pub/softpaq/sp135501-136000/sp135957.exe",
-        "version": "2.9.1.26376 Rev.A",
-        "date": "2021-10-26T00:00:00.000Z"
-    },
-    {
-        "name": "Cloud Recovery Client",
-        "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113100.exe",
-        "version": "2.7.1.1 Rev.A",
-        "date": "2021-03-23T00:00:00.000Z"
-    },
-    {
-        "name": "HP Client Security Manager",
-        "url": "https://ftp.hp.com/pub/softpaq/sp111001-111500/sp111031.exe",
-        "version": "9.6.0.2956 Rev.A",
-        "date": "2020-12-15T00:00:00.000Z"
-    },
-    {
-        "name": "HP Client Security Manager",
-        "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105773.exe",
-        "version": "9.5.3.2908 Rev.A",
-        "date": "2020-07-02T00:00:00.000Z"
-    },
-    {
-        "name": "HP Client Security Manager",
-        "url": "https://ftp.hp.com/pub/softpaq/sp99001-99500/sp99458.exe",
-        "version": "9.4.3.2847 Rev.A",
-        "date": "2019-10-02T00:00:00.000Z"
-    },
-    {
-        "name": "HP Client Security Manager",
-        "url": "https://ftp.hp.com/pub/softpaq/sp99001-99500/sp99133.exe",
-        "version": "9.4.2.2839 Rev.A",
-        "date": "2019-09-05T00:00:00.000Z"
-    },
-    {
         "name": "Foxit PhantomPDF Express for HP",
         "url": "https://ftp.hp.com/pub/softpaq/sp88001-88500/sp88496.exe",
         "version": "6.0.26.201 Rev.A",
@@ -1030,12 +988,6 @@
         "url": "https://ftp.hp.com/pub/softpaq/sp91501-92000/sp91903.exe",
         "version": "6.2.50.1 Rev.A",
         "date": "2018-09-11T00:00:00.000Z"
-    },
-    {
-        "name": "HP Notifications",
-        "url": "https://ftp.hp.com/pub/softpaq/sp87501-88000/sp87569.exe",
-        "version": "1.1.7.1 Rev.A",
-        "date": "2018-05-01T00:00:00.000Z"
     },
     {
         "name": "HP Support Assistant",
