@@ -1,6 +1,12 @@
 [
     {
         "name": "HP Firmware Pack (Q21)",
+        "url": "https://ftp.hp.com/pub/softpaq/sp148001-148500/sp148016.exe",
+        "version": "02.24.00 Rev.A",
+        "date": "2023-08-04T00:00:00.000Z"
+    },
+    {
+        "name": "HP Firmware Pack (Q21)",
         "url": "https://ftp.hp.com/pub/softpaq/sp146001-146500/sp146448.exe",
         "version": "02.23.00 Rev.A",
         "date": "2023-04-28T00:00:00.000Z"
@@ -127,6 +133,12 @@
     },
     {
         "name": "Intel Thunderbolt 3 Secure Connect",
+        "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147801.exe",
+        "version": "88 Rev.A",
+        "date": "2023-06-15T00:00:00.000Z"
+    },
+    {
+        "name": "Intel Thunderbolt 3 Secure Connect",
         "url": "https://ftp.hp.com/pub/softpaq/sp133001-133500/sp133131.exe",
         "version": "84 Rev.A",
         "date": "2021-08-24T00:00:00.000Z"
@@ -187,21 +199,21 @@
     },
     {
         "name": "AMD Video Driver and Control Panel",
-        "url": "https://ftp.hp.com/pub/softpaq/sp125501-126000/sp125583.exe",
-        "version": "27.20.21020.5007 Rev.A",
-        "date": "2021-08-01T00:00:00.000Z"
-    },
-    {
-        "name": "AMD Video Driver and Control Panel for Radeon RX series",
         "url": "https://ftp.hp.com/pub/softpaq/sp142001-142500/sp142173.exe",
         "version": "31.0.12002.5003 Rev.A",
         "date": "2022-08-24T00:00:00.000Z"
     },
     {
-        "name": "AMD Video Driver and Control Panel for Radeon RX series",
+        "name": "AMD Video Driver and Control Panel",
         "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140570.exe",
         "version": "30.0.14036.2 Rev.A",
         "date": "2022-06-05T00:00:00.000Z"
+    },
+    {
+        "name": "AMD Video Driver and Control Panel",
+        "url": "https://ftp.hp.com/pub/softpaq/sp125501-126000/sp125583.exe",
+        "version": "27.20.21020.5007 Rev.A",
+        "date": "2021-08-01T00:00:00.000Z"
     },
     {
         "name": "Intel Video Driver and Control Panel",
@@ -214,12 +226,6 @@
         "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113531.exe",
         "version": "27.20.100.9416 Rev.A",
         "date": "2021-04-28T00:00:00.000Z"
-    },
-    {
-        "name": "Prolific USB-to-Serial Comm Port Driver",
-        "url": "https://ftp.hp.com/pub/softpaq/sp107001-107500/sp107322.exe",
-        "version": "3.8.36.2 Rev.A",
-        "date": "2020-07-29T00:00:00.000Z"
     },
     {
         "name": "Prolific USB-to-Serial Comm Port Driver",
@@ -262,6 +268,12 @@
         "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140794.exe",
         "version": "12.19.2.45 Rev.P",
         "date": "2022-06-23T00:00:00.000Z"
+    },
+    {
+        "name": "Intel WLAN Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147776.exe",
+        "version": "22.230.0.8 Rev.A",
+        "date": "2023-06-12T00:00:00.000Z"
     },
     {
         "name": "Intel WLAN Driver",
