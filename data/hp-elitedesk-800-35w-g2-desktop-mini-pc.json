@@ -342,34 +342,10 @@
         "date": "2015-09-08T00:00:00.000Z"
     },
     {
-        "name": "Intel Chipset Support",
+        "name": "Intel Chipset Device Software",
         "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101125.exe",
         "version": "10.1.18243.8188 Rev.S",
         "date": "2020-01-02T00:00:00.000Z"
-    },
-    {
-        "name": "Intel Chipset Support",
-        "url": "https://ftp.hp.com/pub/softpaq/sp85001-85500/sp85155.exe",
-        "version": "10.1.1.45 Rev.A",
-        "date": "2018-01-30T00:00:00.000Z"
-    },
-    {
-        "name": "Intel Chipset Support",
-        "url": "https://ftp.hp.com/pub/softpaq/sp81501-82000/sp81784.exe",
-        "version": "10.1.1.44 Rev.A",
-        "date": "2017-08-17T00:00:00.000Z"
-    },
-    {
-        "name": "Intel Chipset Support",
-        "url": "https://ftp.hp.com/pub/softpaq/sp81001-81500/sp81059.exe",
-        "version": "10.1.1.40 Rev.A",
-        "date": "2017-06-26T00:00:00.000Z"
-    },
-    {
-        "name": "Intel Chipset Support",
-        "url": "https://ftp.hp.com/pub/softpaq/sp79001-79500/sp79109.exe",
-        "version": "10.1.1.38 Rev.S",
-        "date": "2017-02-14T00:00:00.000Z"
     },
     {
         "name": "Intel Management Engine Driver",
