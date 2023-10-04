@@ -643,15 +643,15 @@
     },
     {
         "name": "Realtek RTL8xxx Bluetooth Driver",
-        "url": "https://ftp.hp.com/pub/softpaq/sp98001-98500/sp98235.exe",
-        "version": "1.6.1015.3008 Rev.S",
-        "date": "2019-06-28T00:00:00.000Z"
-    },
-    {
-        "name": "Realtek RTL8xxx Bluetooth Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp74001-74500/sp74136.exe",
         "version": "1.0.0.48 Rev.A",
         "date": "2015-12-07T00:00:00.000Z"
+    },
+    {
+        "name": "Realtek RTL8xxx Series Bluetooth Driver",
+        "url": "https://ftp.hp.com/pub/softpaq/sp98001-98500/sp98235.exe",
+        "version": "1.6.1015.3008 Rev.S",
+        "date": "2019-06-28T00:00:00.000Z"
     },
     {
         "name": "Intel Rapid Storage Technology Driver",

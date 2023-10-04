@@ -312,7 +312,7 @@
         "date": "2019-12-06T00:00:00.000Z"
     },
     {
-        "name": "Realtek RTL8xxx Bluetooth Driver",
+        "name": "Realtek RTL8xxx Series Bluetooth Driver",
         "url": "https://ftp.hp.com/pub/softpaq/sp108501-109000/sp108784.exe",
         "version": "1.8.1030.3001 Rev.S",
         "date": "2020-08-27T00:00:00.000Z"
